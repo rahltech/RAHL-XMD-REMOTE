@@ -1,0 +1,13 @@
+{
+  "name": "RAHL XMD Plugin Store",
+  "plugins": [
+    {
+      "name": "menu",
+      "url": "https://raw.githubusercontent.com/rahltech/RAHL-XMD-REMOTE/main/plugins/menu.js"
+    },
+    {
+      "name": "alive",
+      "url": "https://raw.githubusercontent.com/rahltech/RAHL-XMD-REMOTE/main/plugins/alive.js"
+    }
+  ]
+}
